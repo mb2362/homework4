@@ -4,8 +4,6 @@ This module generates random test data for a calculator application using the Fa
 It provides a function to create random numbers and operations, which can be used to test
 various arithmetic operations (addition, subtraction, multiplication, division).
 
-Author: [Your Name]
-Date: [Current Date]
 """
 
 from faker import Faker
